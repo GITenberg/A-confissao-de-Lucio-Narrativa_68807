@@ -1,0 +1,35 @@
+_repo: A-confissao-de-Lucio-Narrativa_68807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sá-Carneiro, Mário de
+    aliases:
+    - Sá Carneiro, Mário de
+    - Sá Carneiro, Mário
+    - Sa-Carneiro, Mario de
+    birthdate: 1890
+    deathdate: 1916
+    gutenberg_agent_id: '24897'
+    url: http://www.gutenberg.org/2009/agents/24897
+    wikipedia:
+    - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+    - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+description: ''
+gutenberg_issued: '2022-08-21'
+identifiers:
+  gutenberg: '68807'
+language: pt
+pgterms:marc904: https://archive.org/details/confissodeluci00scuoft/mode/2up
+pgterms:marc905: 20220804084537scarneiro
+pgterms:marc906: '1914'
+pgterms:marc907: PT
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: Portugal :Em casa de autor,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A confissão de Lucio,: Narrativa.'
+url: http://www.gutenberg.org/ebooks/68807
